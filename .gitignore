@@ -12,3 +12,24 @@ crash.log
 Thumbs.db
 .vscode/
 .idea/
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Sensitive variables
+terraform.tfvars
+*.pem
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
