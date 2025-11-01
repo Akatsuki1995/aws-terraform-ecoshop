@@ -1,6 +1,3 @@
-
-
-```markdown
 # ☁️ Infrastructure AWS 3-Tiers avec Terraform
 
 Ce projet automatise le déploiement d’une **infrastructure AWS complète et sécurisée** selon une architecture **3-Tiers** en utilisant **Terraform (Infrastructure as Code)**.  
